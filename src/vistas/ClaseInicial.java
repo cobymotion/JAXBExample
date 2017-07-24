@@ -263,6 +263,7 @@ public class ClaseInicial extends javax.swing.JFrame {
          modeloRows.setRowFilter(
                 RowFilter.regexFilter(
                         jTextField1.getText(),0));
+         
     }//GEN-LAST:event_filtrar2
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
